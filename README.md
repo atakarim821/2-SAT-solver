@@ -3,6 +3,8 @@ This was a part of programming assignments of course Advanced Algorithms and Com
 
 Program takes input as following
 - First line take 2 integer value V and C representing number of variable and number of clauses.
-- Each of next C line contains two integers representing each clause. If a line contains the integer 2 -4, then it represent clause \x_{1}
+- Each of next C line contains two integers representing each clause.
+
+Program output SATISFIABLE followed by assignment to each variable if formula is Satisfiable otherwise output UNSATISFIABLE.
 
   
